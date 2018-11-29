@@ -1,0 +1,42 @@
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: posts ","time":"2018-11-29T11:20:20.773Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: users ","time":"2018-11-29T11:20:20.778Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: posts_authors ","time":"2018-11-29T11:20:20.782Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: roles ","time":"2018-11-29T11:20:20.785Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: roles_users ","time":"2018-11-29T11:20:20.787Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: permissions ","time":"2018-11-29T11:20:20.789Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: permissions_users ","time":"2018-11-29T11:20:20.793Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: permissions_roles ","time":"2018-11-29T11:20:20.795Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: permissions_apps ","time":"2018-11-29T11:20:20.797Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: settings ","time":"2018-11-29T11:20:20.799Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: tags ","time":"2018-11-29T11:20:20.802Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: posts_tags ","time":"2018-11-29T11:20:20.805Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: apps ","time":"2018-11-29T11:20:20.807Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: app_settings ","time":"2018-11-29T11:20:20.811Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: app_fields ","time":"2018-11-29T11:20:20.814Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: clients ","time":"2018-11-29T11:20:20.816Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: client_trusted_domains ","time":"2018-11-29T11:20:20.820Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: accesstokens ","time":"2018-11-29T11:20:20.822Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: refreshtokens ","time":"2018-11-29T11:20:20.825Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: subscribers ","time":"2018-11-29T11:20:20.828Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: invites ","time":"2018-11-29T11:20:20.831Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: brute ","time":"2018-11-29T11:20:20.835Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: webhooks ","time":"2018-11-29T11:20:20.837Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: sessions ","time":"2018-11-29T11:20:20.839Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: integrations ","time":"2018-11-29T11:20:20.842Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: api_keys ","time":"2018-11-29T11:20:20.846Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Creating table: mobiledoc_revisions ","time":"2018-11-29T11:20:20.849Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Model: Tag ","time":"2018-11-29T11:20:20.856Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Model: Client ","time":"2018-11-29T11:20:20.878Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Model: Role ","time":"2018-11-29T11:20:20.888Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Model: Permission ","time":"2018-11-29T11:20:20.903Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Model: User ","time":"2018-11-29T11:20:21.034Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Model: Post ","time":"2018-11-29T11:20:21.344Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Relation: Role to Permission ","time":"2018-11-29T11:20:21.547Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Relation: Post to Tag ","time":"2018-11-29T11:20:21.722Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Relation: User to Role ","time":"2018-11-29T11:20:21.780Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":40,"msg":"Theme's file locales/en.json not found. ","time":"2018-11-29T11:20:22.411Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Ghost is running in development... ","time":"2018-11-29T11:20:23.020Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Listening on: 127.0.0.1:2369 ","time":"2018-11-29T11:20:23.021Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Url configured as: http://localhost:2369/ ","time":"2018-11-29T11:20:23.021Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Ctrl+C to shut down ","time":"2018-11-29T11:20:23.022Z","v":0}
+{"name":"Log","hostname":"Stephens-iMac.local","pid":21643,"level":30,"msg":"Ghost boot 3.629s ","time":"2018-11-29T11:20:23.023Z","v":0}
